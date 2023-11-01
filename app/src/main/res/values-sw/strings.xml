@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L05_New_Shop_Guda_66443</string>
+    <string name="surname_input">Jina la Ukoo</string>
+    <string name="town_input">Mji</string>
+    <string name="surname_text">Jina la Ukoo</string>
+    <string name="town_text">Mji</string>
+    <string name="store_name">Karibu  Jiji Store</string>
+    <string name="spinner_id">" vitu ngapi?"</string>
+    <string name="btn_id">FOMU YA KUNUNUA</string>
+</resources>

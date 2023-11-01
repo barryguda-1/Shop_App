@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L05_New_Shop_Guda_66443</string>
+    <string name="surname_input">Surname</string>
+    <string name="town_input">Town</string>
+    <string name="surname_text">Surname</string>
+    <string name="town_text">Town</string>
+    <string name="store_name">Welcome to Jiji Store</string>
+    <string name="spinner_id">How many items ?</string>
+    <string name="btn_id">GO TO PURCHASE FORM</string>
+    <string-array name="buy_items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+</resources>
